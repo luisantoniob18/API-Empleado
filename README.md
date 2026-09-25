@@ -27,7 +27,7 @@
 
 API sencilla con MySQL
 
-<img src="./NuevoEmpleado.jpeg" alt="Crear nuevo empleado" width="300">
+<img src="./NuevoEmpleado.png" alt="Crear nuevo empleado" width="300">
 
 ## Project setup
 
