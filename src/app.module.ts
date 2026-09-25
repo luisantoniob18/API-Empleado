@@ -14,7 +14,7 @@ import { Empleado } from './empleado/entities/empleado.entity';
       host: 'localhost',
       port: 3306,
       username: 'root',
-      password: '',
+      password: 'root',
       database: 'primer_parcial',
       synchronize: true,
       entities: [
