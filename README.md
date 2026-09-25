@@ -25,6 +25,10 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+API sencilla con MySQL
+
+<img src="./NuevoEmpleado.jpeg" alt="Crear nuevo empleado" width="300">
+
 ## Project setup
 
 ```bash
